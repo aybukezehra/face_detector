@@ -1,0 +1,8 @@
+# Sanal ortam (Çok büyük ve gereksiz)
+venv/
+
+# Python'un oluşturduğu cache dosyaları
+__pycache__/
+
+# VS Code ayar klasörü (İsteğe bağlı)
+.vscode/
