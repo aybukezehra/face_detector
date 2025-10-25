@@ -3,7 +3,6 @@
 OpenCV ve Haar Cascade sınıflandırıcıları kullanılarak Python ile geliştirilmiş basit bir gerçek zamanlı yüz tespiti uygulaması.
 
 ![Proje Demosu](https://i.imgur.com/your-demo-image.gif)  
-*(İsteğe bağlı: Projenizin çalıştığına dair bir ekran görüntüsü veya GIF eklerseniz harika görünür!)*
 
 ## 📝 Açıklama (Description)
 
